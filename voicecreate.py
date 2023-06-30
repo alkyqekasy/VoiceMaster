@@ -11,7 +11,7 @@ bot = commands.Bot(command_prefix=".", intents=intents)
 
 bot.remove_command("help")
 
-DISCORD_TOKEN = 'MTA5NDMxNTkyMTgxODAxMzc0Ng.GG4ZAd.scbGvHzhquXv6ocPQgJIVOSNK52EfIDOlRw4r8'
+DISCORD_TOKEN = 'MTA5NDMxNTkyMTgxODAxMzc0Ng.GG4ZAd'
 
 initial_extensions = ['cogs.voice']
 
